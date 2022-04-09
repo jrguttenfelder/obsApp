@@ -7,7 +7,7 @@ cd obs-studio
 CI/build-windows.ps1
 
 # Clone this repository (at the same level as obs-studio)
-git clone https://github.com/jrguttenfelder/pub/obsApp
+git clone https://github.com/jrguttenfelder/obsApp
 
 # Build the OBS example application
 cd obsApp
